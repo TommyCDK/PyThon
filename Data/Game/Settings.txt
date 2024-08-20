@@ -1,0 +1,7 @@
+GameWidth=1000
+GameHeight=1000
+GameFill=white
+
+
+
+
